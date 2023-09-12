@@ -4,6 +4,24 @@ https://www.amazon.co.jp/dp/4863544200
 
 ## 変更履歴
 
+### 20230912
+
+#### p88
+
+ハンズオンプロジェクトの作成コマンドのプロジェクト名が間違っています。
+
+以下のように記載してありますが、
+
+```bash
+npx create-next-app@latest nextjs-sample --no-app --no -tailwind
+```
+
+正しくは以下です。
+
+```bash
+npx create-next-app@latest nextjs-handson1 --no-app --no-tailwind
+```
+
 ### 20230817
 
 #### p91
